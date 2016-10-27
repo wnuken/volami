@@ -1,0 +1,24 @@
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+	height: 100%;
+	width: 100%;
+}
+
+.map-container {
+	margin-top: 50px;
+	height: 92.5%;
+}
+
+.map-row {
+	height: 100%;
+}
+
+.modal-image {
+	width: 90%;
+}

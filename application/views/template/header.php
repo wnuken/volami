@@ -11,5 +11,6 @@
   <title>Volami</title>
   <!-- Bootstrap core CSS -->
   <link href="./assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="./assets/css/styles.css" rel="stylesheet">
 </head>
 <body>

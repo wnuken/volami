@@ -34,6 +34,13 @@
 			"image": "./assets/images/image-min-5.jpg",
 			"contact": "<h3>INFORMACIÓN DE CONTACTO</h3><ul><li>Fundacion Nuevo Amanecer</li><li>A. A. 1033</li><li>Cucuta, Norte de Santander</li><li>Colombia</li><li>312-518-7310 310-377-5988</li><li>www.vidasanachinacota.org</li><li>vidasanacanaanchinacota@gmail.com</li><li>Alvaro PaezDirector</li></ul>",
 			"voluntaries": "<h3>INFORMACIÓN DE VOLUNTARIADO</h3>"
+		},
+		{
+			"title": "FUNDACION EL SAUCE (SAMAIPATA – BOLIVIA)",
+			"info": "<h3>INFORMACIÓN</h3><p>Fundación El Sauce es una organización sin fines de lucro, ubicada en el municipio de Samaipata del Estado de Santa Cruz de la Sierra, en Bolivia.</p><p>Desde 2012 ofrece casa-hogar a niños huérfanos y/o abandonados de 0 a 18 años. También ofrece un hogar a adolescentes, madres solteras o embarazadas que sufren abuso y/o rechazo de sus familiares, ofreciéndoles una oportunidad de integración social y núcleo familiar, supliendo sus necesidades básicas o primarias dentro de una atmósfera cristiana.</p><p>Tenemos una hermosa huerta orgánica que provee alimentos para el hogar y el excedente se comercializa en la ciudad. También funciona una carpintería completamente dotada donde se han hecho la mayor parte de los muebles que tenemos en el hogar.</p>",
+			"image": "./assets/images/image-min-6.jpg",
+			"contact": "<h3>INFORMACIÓN DE CONTACTO</h3><ul><li>Hogar de niños Fundación El Sauce</li><li>Comunidad El Sauce</li><li>Samaipata, Santa Cruz, Bolivia</li><li>fundacionelsauce@gmail.com</li><li>José Mozombite Director (59) 1 79827296</li><li>Andrés Felipe Quiroga, Secretario (59) 1 70920171</li></ul>",
+			"voluntaries": "<h3>INFORMACIÓN DE VOLUNTARIADO</h3><ul><li>Padres de núcleos (Pareja de esposos con o sin hijos que asuman la responsabilidad de paternidad para los niños asignados a los hogares)</li><li>Carpintero de tiempo completo</li><li>Psicólogo educativo y/o clínico</li><li>Pedagogo educación especial</li><li>Profesor de música</li><li>Panadero</li></ul>"
 		}
 	]},
 	{"locations":[
@@ -41,6 +48,7 @@
 		{"lat": -8.3085217, "lng": -35.675165},
 		{"lat": 4.9729943, "lng": -74.290247},
 		{"lat": 3.8876791, "lng": -76.303722},
-		{"lat": 7.5874131, "lng": -72.5750582}
+		{"lat": 7.5874131, "lng": -72.5750582},
+		{"lat": -18.1797645, "lng": -63.8798503}
 	]}
 ]

@@ -1,4 +1,4 @@
-<div class="container-fluid map-container" ng-app="volamiApp" ng-controller="mapController">
+<div class="container-fluid map-container">
 	<div class="row map-row">
 		<div id="map"></div>
 		<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">

@@ -15,5 +15,6 @@
  <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnIUTe4wLuQKVFjQgPnEdD2haIhRDjpME&callback=initMap"></script>
  
+
  <script src="./assets/js/controllerMap.js"></script>
 </html>

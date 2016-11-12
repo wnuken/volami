@@ -41,6 +41,13 @@
 			"image": "./assets/images/image-min-6.jpg",
 			"contact": "<h3>INFORMACIÓN DE CONTACTO</h3><ul><li>Hogar de niños Fundación El Sauce</li><li>Comunidad El Sauce</li><li>Samaipata, Santa Cruz, Bolivia</li><li>fundacionelsauce@gmail.com</li><li>José Mozombite Director (59) 1 79827296</li><li>Andrés Felipe Quiroga, Secretario (59) 1 70920171</li></ul>",
 			"voluntaries": "<h3>INFORMACIÓN DE VOLUNTARIADO</h3><ul><li>Padres de núcleos (Pareja de esposos con o sin hijos que asuman la responsabilidad de paternidad para los niños asignados a los hogares)</li><li>Carpintero de tiempo completo</li><li>Psicólogo educativo y/o clínico</li><li>Pedagogo educación especial</li><li>Profesor de música</li><li>Panadero</li></ul>"
+		},
+		{
+			"title": "FUNDACION VIDA SANA (FUSAGASUGÁ – COLOMBIA)",
+			"info": "<h3>INFORMACIÓN</h3><p>Hay muchas maneras de practicar el arte de sanar; pero hay una sola que el cielo aprueba. Los remedios de Dios son los simples agentes de la naturaleza, que no recargarán ni debilitarán el organismo por la fuerza de sus propiedades. ' (E.G. White)</p>",
+			"image": "./assets/images/image-min-7.png",
+			"contact": "<h3>INFORMACIÓN DE CONTACTO</h3><ul><li>Dirección: Km 2 Via San Miguel – Vereda la Palma</li><li>Fusagasugá, Cundinamarca</li><li>Cel/Whatsapp: +(57)318-773-0129</li><li>Horario de Atención:</li><li>Domingo a Jueves 8:00 AM – 5:00 PM</li><li>Viernes 8:00 AM – 2:00 PM</li><li>Sábado Programa especial 9:00 AM – 12:30 PM</li></ul>",
+			"voluntaries": "<h3>INFORMACIÓN DE VOLUNTARIADO</h3>"
 		}
 	]},
 	{"locations":[
@@ -49,6 +56,7 @@
 		{"lat": 4.9729943, "lng": -74.290247},
 		{"lat": 3.8876791, "lng": -76.303722},
 		{"lat": 7.5874131, "lng": -72.5750582},
-		{"lat": -18.1797645, "lng": -63.8798503}
+		{"lat": -18.1797645, "lng": -63.8798503},
+		{"lat": 4.357634, "lng": -74.351245}
 	]}
 ]

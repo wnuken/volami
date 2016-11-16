@@ -10,7 +10,7 @@
   <link rel="icon" href="./favicon.ico">
   <title>Volami</title>
   <!-- Bootstrap core CSS -->
-  <link href="./assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="./assets/css/styles.css" rel="stylesheet">
+  <link href="<?php echo base_url("assets/vendor/bootstrap/css/bootstrap.min.css"); ?>" rel="stylesheet">
+  <link href="<?php echo base_url("assets/css/styles.css"); ?>" rel="stylesheet">
 </head>
 <body>

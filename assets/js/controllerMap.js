@@ -7,10 +7,10 @@ function initMap() {
 
 	var labels = '0';
 
-	$.get('./assets/files/position.json', { userId : 1234 }, function(resp) {
+	$.get('./home/getvoluntaries', { userId : 1234 }, function(resp) {
 		console.log(resp);
-		var contentString = resp[0]["contentString"];
-		var locations = resp[1]["locations"];
+		var contentString = resp.contentString;
+		var locations = resp.locations;
 		var initial = {lat: -5.9498319, lng: -62.4233359};
 		map = new google.maps.Map(document.getElementById('map'), {
 			zoom: 3,

@@ -1,0 +1,10 @@
+.map-container {
+	margin-top: 100px;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	background: #fff;
+}
